@@ -1,0 +1,1 @@
+This report details a comparative performance study of two distinct CPU architectures—the Superscalar Out-of-Order (O3CPU) and the In-Order (X86 Minor CPU)—using the gem5 simulation framework. The primary objective was to quantitatively analyse the impact of pipeline complexity and execution paradigm on critical performance metrics under a consistent workload.
